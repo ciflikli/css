@@ -1,7 +1,7 @@
 +++
-title = "Sponsors"
-weight = 40
-draft = false
+title = "Contact"
+weight = 60
+draft = true
 +++
 
 <form method="post" action="#">
@@ -24,3 +24,13 @@ draft = false
 </form>
 
 {{< socialLinks >}}
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d272.52306160730626!2d-0.11761076745669095!3d51.51479076993818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604b555fc840d%3A0x4d9b1e9ee55ec642!2sSaw+Swee+Hock+Centre!5e0!3m2!1sen!2suk!4v1514493398938" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+#### Icons
+<ul class="icons">
+	<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+	<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+	<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+	<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+</ul>

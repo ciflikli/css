@@ -1,9 +1,10 @@
-baseurl = "http://example.org"
+baseurl = ""
 title = "LSESU CSS"
 theme = "dimension"
 languageCode = "en-us"
 enableRobotsTXT = true
 disableKinds=["RSS"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   description = "The official website for the first ever LSE hackathon on computational social science April 21-22, 2018"
