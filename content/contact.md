@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 weight = 60
-draft = true
+draft = false
 +++
 
 <form method="post" action="#">

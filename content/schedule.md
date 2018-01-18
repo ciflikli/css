@@ -1,7 +1,7 @@
 +++
 title = "Schedule"
 weight = 40
-draft = true
+draft = false
 +++
 
 <h3>Friday May 4 | Pre-Event</h3>
