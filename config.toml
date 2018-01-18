@@ -1,4 +1,4 @@
-baseurl = "www.cssatlse.com"
+baseurl = "http://www.cssatlse.com"
 title = "LSESU CSS"
 theme = "dimension"
 languageCode = "en-us"
