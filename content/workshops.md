@@ -7,17 +7,28 @@ draft = false
 {{< figure class="image main" src="/images/pic03.jpg" >}}
 
 ## Workshops
- 
-### Machine Learning in R using ```caret```
-##### Gokhan Ciflikli, LSE
+
+We will have events throughout the hackathon. These will run in parallel with the main event; the participants can take a break from hacking and attend a workshop. Events are tied to sponsorships. Currently, we are expecting to host four technical workshops and one speaker panel.
+
+---
+
+### Make and host your own blog using ```R``` and ```GitHub```
+##### Claudia Vitolo, R-Ladies
+
+---
 
 ### Quantitative Text Analysis with ```quanteda```
-##### Ken Benoit, LSE
+##### Ken Benoit & Kohei Watanabe, LSE
+
+---
+
+### Machine Learning with ```Google Cloud```
+##### Marc Cohen, Google
+
+---
 
 ## Speakers
 
-### TBD
-##### R-Ladies London
-
-### Career Talk
-##### Kirstie Whitaker, Alan Turing Institute
+### Data Science Careers Talk
+##### Intersectional DS Panel
+##### Speakers TBA

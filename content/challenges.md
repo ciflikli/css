@@ -6,10 +6,5 @@ draft = false
 
 {{< figure class="image main" src="/images/pic02.jpg" >}}
 
-We have five CSS challenges.
+We aim to have five distinct computational social science challenges for the participants to tackle throughout the weekend. Challenges are tied to sponsorships. They will be publicised two weeks before the event.
 
-## LSE SEDS
-## LSE TLC
-## Alan Turing Institute
-## Mango Solutions
-## Tech Firm Challenge

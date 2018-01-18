@@ -7,26 +7,26 @@ disableKinds=["RSS"]
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  description = "The official website for the first ever LSE hackathon on computational social science April 21-22, 2018"
+  description = "The official website for the first ever LSE hackathon on computational social science May 4-6, 2018"
   logo = "fa-code"
-  copyright = "2017 LSESU CSS Society"
+  copyright = "2018 LSESU CSS Society"
 
 [[params.social]]
   medium = "twitter"
   icon = "twitter"
-  link = "#"
+  link = "https://twitter.com/cssatlse"
 
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/cssatlse/"
 
 [[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "#"
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/company/cssatlse/"
 
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/cssatlse"

@@ -4,21 +4,21 @@ weight = 50
 draft = false
 +++
 
+We are actively looking for internal and external sponsors to contribute to our event. Each contributor has the right to set a challenge and host a workshop (or sponsor a workshop/talk by a third-party). Contributing parties will be acknowledged throughout our promotional campaign and during the main event. Reach us at css@lsesu.org for more information.
+
 ### Internal
 
 * LSE Annual Fund
-* LSE Methodology
-* LSE SEDS
-* LSE International Relations
-* LSE Teaching and Learning Centre
+* LSE Social and Economic Data Science (SEDS)
 
 ### External
 
+None confirmed so far.
+
+### Participants
+
+In addition to the above, we will have delegates from the following organisations:
+
 * The Alan Turing Institute
-* Facebook (?)
-* Google (?)
-* Microsoft (?)
-* Apple (?)
-* Applied Predictive Technologies (?)
-* Mango Solutions (?)
-* LondonR (?)
+* R-Ladies London Branch
+* Google
