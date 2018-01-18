@@ -6,9 +6,14 @@ draft = false
 
 {{< figure class="image main" src="/images/library.jpg" >}}
 
+We will host events throughout the hackathon. These will run in parallel with the main event; the participants can take a break from hacking and attend a workshop. Events are tied to sponsorships. Currently, we are expecting to host four technical workshops and one speaker panel.
+
 ## Workshops
 
-We will have events throughout the hackathon. These will run in parallel with the main event; the participants can take a break from hacking and attend a workshop. Events are tied to sponsorships. Currently, we are expecting to host four technical workshops and one speaker panel.
+### Introduction to Version Control
+##### TBA, GitHub
+
+---
 
 ### Make and host your own blog using ```R``` and ```GitHub```
 ##### Claudia Vitolo, R-Ladies
@@ -25,8 +30,6 @@ We will have events throughout the hackathon. These will run in parallel with th
 
 ---
 
-## Speakers
-
-### Data Science Careers Talk
-##### Intersectional DS Panel
-##### Speakers TBA
+## Data Science Careers
+### Intersectional DS Panel
+##### Full Speaker List TBA
