@@ -4,7 +4,7 @@ weight = 10
 draft = false
 +++
 
-{{< figure class="image main" src="/images/pic01.jpg" >}}
+{{< figure class="image main" src="/images/card.jpg" >}}
 
 We are the Computational Social Science Society, established and operating under the LSE Student Union framework. The aims and objectives of our society are:
 
