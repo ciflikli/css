@@ -20,6 +20,14 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     cursor: pointer;
 }
 
+#map {
+    -webkit-filter: grayscale(100%);
+       -moz-filter: grayscale(100%);
+        -ms-filter: grayscale(100%);
+         -o-filter: grayscale(100%);
+            filter: grayscale(100%);
+}
+
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block; }
 
@@ -100,7 +108,8 @@ a {
   text-decoration: none;
   color: inherit; }
   a:hover {
-    border-bottom-color: transparent; }
+    border-bottom-color: transparent;
+    color: #d12222; }
 
 strong, b {
   color: #ffffff;
@@ -946,7 +955,7 @@ button {
         font-size: 0.8rem;
         border-bottom: 0; }
         #header nav ul li a:hover {
-          background-color: rgba(255, 255, 255, 0.075); }
+          background-color: rgba(255, 255, 255, 0.8); }
         #header nav ul li a:active {
           background-color: rgba(255, 255, 255, 0.175); }
   #header nav.use-middle:after {

@@ -5,6 +5,7 @@ draft = false
 +++
 
 {{< figure class="image main" src="/images/card.jpg" >}}
+<div style="text-align: right">*Arnold Reinhold, <a href="https://commons.wikimedia.org/wiki/File:FortranCardPROJ039.agr.jpg">FortranCardPROJ039.agr</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5/legalcode" rel="license">CC BY-SA 2.5</a>*</div>
 
 We are the Computational Social Science Society, established and operating under the LSE Student Union framework. Click [here](https://www.lsesu.com/activities/societies/society/13345/) to buy a membership. The aims and objectives of our society are:
 

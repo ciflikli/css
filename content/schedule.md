@@ -22,7 +22,7 @@ draft = false
 			</tr>
 			<tr>
 				<td>7.00pm</td>
-				<td>Intro to GitHub</td>
+				<td>Introduction to GitHub</td>
 				<td></td>
 			</tr>
 			<tr>
@@ -34,7 +34,7 @@ draft = false
 		<tfoot>
 			<tr>
 				<td colspan="2"></td>
-				<td>TBD</td>
+				<td>TBA</td>
 			</tr>
 		</tfoot>
 	</table>
@@ -72,11 +72,6 @@ draft = false
 				<td></td>
 			</tr>
 			<tr>
-				<td>1.30pm</td>
-				<td>Hacking commences</td>
-				<td></td>
-			</tr>
-			<tr>
 				<td>2.30pm</td>
 				<td>Workshop II</td>
 				<td></td>
@@ -105,7 +100,7 @@ draft = false
 		<tfoot>
 			<tr>
 				<td colspan="2"></td>
-				<td>TBD</td>
+				<td>TBA</td>
 			</tr>
 		</tfoot>
 	</table>
@@ -143,11 +138,6 @@ draft = false
 				<td></td>
 			</tr>
 			<tr>
-				<td>1.30pm</td>
-				<td>Hacking recommences</td>
-				<td></td>
-			</tr>
-			<tr>
 				<td>2.30pm</td>
 				<td>DS Careers Panel</td>
 				<td></td>
@@ -171,7 +161,7 @@ draft = false
 		<tfoot>
 			<tr>
 				<td colspan="2"></td>
-				<td>TBD</td>
+				<td>TBA</td>
 			</tr>
 		</tfoot>
 	</table>
