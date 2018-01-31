@@ -4,10 +4,7 @@ weight = 10
 draft = false
 +++
 
-{{< figure class="image main" src="/images/card.jpg" >}}
-<div style="text-align: right">*Arnold Reinhold, <a href="https://commons.wikimedia.org/wiki/File:FortranCardPROJ039.agr.jpg">FortranCardPROJ039.agr</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5/legalcode" rel="license">CC BY-SA 2.5</a>*</div>
-
-We are the Computational Social Science Society, established and operating under the LSE Student Union framework. Click [here](https://www.lsesu.com/activities/societies/society/13345/) to buy a membership. The aims and objectives of our society are:
+We are the Computational Social Science Society, established and operating under the LSE Student Union framework. Click [here](https://www.lsesu.com/activities/societies/society/CSS/) to buy a membership. The aims and objectives of our society are:
 
 i) To create an awareness of LSE talent in computational social science and big data analytics. Big tech firms tend to recruit directly from the emerging field of CSS (e.g. PhD in CSS as a requirement), but also look for broader analytical skills. Though CSS does not exist as a degree programme at the LSE, many technical social scientists qualify for these jobs. We aim to target top tech companies that have little or no presence at the LSE. Our mandate includes an effort to promote and encourage diversity and inclusion in CSS.
 

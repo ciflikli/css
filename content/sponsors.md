@@ -10,8 +10,13 @@ Reach us at [css@lsesu.org](mailto:css@lsesu.org?subject=Sponsorship) for more i
 
 ### Internal
 
-* LSE Annual Fund
-* LSE Social and Economic Data Science (SEDS)
+* [LSE Annual Fund](http://www.lse.ac.uk/supporting-lse/give-to-lse/annual-fund)
+
+<img src="images/af.jpg" width="200">
+
+* [LSE Social and Economic Data Science (SEDS)](http://www.lse.ac.uk/seds/)
+
+<img src="images/seds.jpg" width="200">
 
 ### External
 
