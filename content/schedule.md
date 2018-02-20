@@ -4,7 +4,7 @@ weight = 40
 draft = false
 +++
 
-<h3>Friday May 4 | Pre-Event</h3>
+<h3>Tuesday April 17 | Pre-Event</h3>
 <div class="table-wrapper">
 	<table class="alt">
 		<thead>
@@ -40,7 +40,7 @@ draft = false
 	</table>
 </div>
 
-<h3>Saturday May 5 | Day One</h3>
+<h3>Wednesday April 18 | Day One</h3>
 <div class="table-wrapper">
 	<table class="alt">
 		<thead>
@@ -106,7 +106,7 @@ draft = false
 	</table>
 </div>
 
-<h3>Sunday May 6 | Day Two</h3>
+<h3>Thursday April 19 | Day Two</h3>
 <div class="table-wrapper">
 	<table class="alt">
 		<thead>
