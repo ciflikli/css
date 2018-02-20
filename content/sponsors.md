@@ -20,7 +20,9 @@ Reach us at [css@lsesu.org](mailto:css@lsesu.org?subject=Sponsorship) for more i
 
 ### External
 
-None confirmed so far.
+* [R Consortium](https://www.r-consortium.org/)
+
+<img src="images/consortium.jpg" width="200">
 
 ### Participants
 
