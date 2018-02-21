@@ -23,5 +23,5 @@ draft = false
 	</ul>
 </form>
 <div id='map'>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.919656322957!2d-0.11788668422975283!3d51.51468997963626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604b542d35857%3A0x1c75cef3dff69e5c!2sLSE+Library%3A+The+British+Library+of+Political+and+Economic+Science!5e0!3m2!1sen!2suk!4v1516312446364" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d359.0421313108467!2d-0.11745912066796549!3d51.514466764795166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604b555fc840d%3A0x4d9b1e9ee55ec642!2sSaw+Swee+Hock+Centre!5e0!3m2!1sen!2suk!4v1519211479283" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>

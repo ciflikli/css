@@ -10,19 +10,19 @@ Reach us at [css@lsesu.org](mailto:css@lsesu.org?subject=Sponsorship) for more i
 
 ### Internal
 
-* [LSE Annual Fund](http://www.lse.ac.uk/supporting-lse/give-to-lse/annual-fund)
-
 <img src="images/af.jpg" width="200">
 
-* [LSE Social and Economic Data Science (SEDS)](http://www.lse.ac.uk/seds/)
+* [LSE Annual Fund](http://www.lse.ac.uk/supporting-lse/give-to-lse/annual-fund)
 
 <img src="images/seds.jpg" width="200">
 
+* [LSE Social and Economic Data Science (SEDS)](http://www.lse.ac.uk/seds/)
+
 ### External
 
-* [R Consortium](https://www.r-consortium.org/)
-
 <img src="images/consortium.jpg" width="200">
+
+* [R Consortium](https://www.r-consortium.org/)
 
 ### Participants
 
@@ -30,4 +30,4 @@ In addition to the above, we will have delegates from the following organisation
 
 * The Alan Turing Institute
 * R-Ladies London Branch
-* Google
+* Google Cloud

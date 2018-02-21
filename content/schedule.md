@@ -4,6 +4,11 @@ weight = 40
 draft = false
 +++
 
+## Locations
+
+__LSE Life:__ LSE Library, Ground Floor, 10 Portugal St, London WC2A 2HD \\
+__The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London, WC2A 2AP
+
 <h3>Tuesday April 17 | Pre-Event</h3>
 <div class="table-wrapper">
 	<table class="alt">
@@ -18,23 +23,23 @@ draft = false
 			<tr>
 				<td>6.00pm</td>
 				<td>Challenge Presentations</td>
-				<td></td>
+				<td>LSE Life</td>
 			</tr>
 			<tr>
 				<td>7.00pm</td>
 				<td>Introduction to GitHub</td>
-				<td></td>
+				<td>LSE Life</td>
 			</tr>
 			<tr>
 				<td>8.00pm</td>
 				<td>Reception</td>
-				<td></td>
+				<td>LSE Life</td>
 			</tr>
 		 </tbody>
 		<tfoot>
 			<tr>
 				<td colspan="2"></td>
-				<td>TBA</td>
+				<td></td>
 			</tr>
 		</tfoot>
 	</table>
@@ -54,45 +59,45 @@ draft = false
 			<tr>
 				<td>09.30am</td>
 				<td>Coffee</td>
-				<td></td>
+				<td>The Venue</td>
 			</tr>
 			<tr>
 				<td>10.00am</td>
 				<td>Hacking commences</td>
-				<td></td>
+				<td>The Venue</td>
 			</tr>
 			<tr>
 				<td>11.00am</td>
 				<td>Workshop I</td>
-				<td></td>
+				<td>LSE Life</td>
 			</tr>
 			<tr>
 				<td>12.30pm</td>
 				<td>Lunch</td>
-				<td></td>
+				<td>The Venue</td>
 			</tr>
 			<tr>
 				<td>2.30pm</td>
 				<td>Workshop II</td>
-				<td></td>
+				<td>LSE Life</td>
 			</tr>
 			<tr>
 				<td>3.30pm</td>
 				<td>Coffee break</td>
-				<td></td>
+				<td>The Venue</td>
 			</tr>
 			<tr>
 				<td>4pm</td>
 				<td>Workshop III</td>
-				<td></td>
+				<td>LSE Life</td>
 			</tr>
 			<tr>
 				<td>7pm</td>
 				<td>Dinner</td>
-				<td></td>
+				<td>The Venue</td>
 			</tr>
 			<tr>
-				<td>10pm</td>
+				<td>9pm</td>
 				<td>End of Day One</td>
 				<td></td>
 			</tr>
@@ -100,7 +105,7 @@ draft = false
 		<tfoot>
 			<tr>
 				<td colspan="2"></td>
-				<td>TBA</td>
+				<td></td>
 			</tr>
 		</tfoot>
 	</table>
@@ -120,48 +125,48 @@ draft = false
 			<tr>
 				<td>09.30am</td>
 				<td>Coffee</td>
-				<td></td>
+				<td>The Venue</td>
 			</tr>
 			<tr>
 				<td>10.00am</td>
 				<td>Hacking</td>
-				<td></td>
+				<td>The Venue</td>
 			</tr>
 			<tr>
 				<td>11am</td>
 				<td>Workshop IV</td>
-				<td></td>
+				<td>LSE Life</td>
 			</tr>
 			<tr>
 				<td>12.30pm</td>
 				<td>Lunch</td>
-				<td></td>
-			</tr>
-			<tr>
-				<td>2.30pm</td>
-				<td>DS Careers Panel</td>
-				<td></td>
+				<td>The Venue</td>
 			</tr>
 			<tr>
 				<td>3.30pm</td>
 				<td>Coffee break</td>
-				<td></td>
+				<td>The Venue</td>
 			</tr>
 			<tr>
 				<td>5.30pm</td>
 				<td>Presentations</td>
-				<td></td>
+				<td>The Venue</td>
 			</tr>
 			<tr>
 				<td>6.30pm</td>
+				<td>DS Careers Panel</td>
+				<td>The Venue</td>
+			</tr>
+			<tr>
+				<td>8.00pm</td>
 				<td>Pub</td>
-				<td></td>
+				<td>TBA</td>
 			</tr>
 		</tbody>
 		<tfoot>
 			<tr>
 				<td colspan="2"></td>
-				<td>TBA</td>
+				<td></td>
 			</tr>
 		</tfoot>
 	</table>

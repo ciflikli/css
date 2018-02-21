@@ -7,7 +7,7 @@ disableKinds=["RSS"]
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  description = "The official website for the first ever LSE hackathon on computational social science April 18-19, 2018"
+  description = "The official website for the first ever LSE hackathon on computational social science April 17-19, 2018"
   #logoimage = "/images/icon.png"
   logo = "fa-code"
   copyright = "2018 LSESU CSS Society"
