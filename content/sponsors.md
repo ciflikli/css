@@ -10,19 +10,17 @@ Reach us at [css@lsesu.org](mailto:css@lsesu.org?subject=Sponsorship) for more i
 
 ### Internal
 
-<img src="images/af.jpg" width="200">
+<a href="http://www.lse.ac.uk/supporting-lse/give-to-lse/annual-fund">
+<img src="images/af.jpg" width="300"></a>
 
-* [LSE Annual Fund](http://www.lse.ac.uk/supporting-lse/give-to-lse/annual-fund)
+<a href="http://www.lse.ac.uk/seds/">
+<img src="images/seds.jpg" width="300"></a>
 
-<img src="images/seds.jpg" width="200">
-
-* [LSE Social and Economic Data Science (SEDS)](http://www.lse.ac.uk/seds/)
 
 ### External
 
-<img src="images/consortium.jpg" width="200">
-
-* [R Consortium](https://www.r-consortium.org/)
+<a href="https://www.r-consortium.org/">
+<img src="images/consortium.jpg" width="300"></a>
 
 ### Participants
 
