@@ -6,7 +6,7 @@ draft = false
 
 ## Locations
 
-__LSE Life:__ LSE Library, Ground Floor, 10 Portugal St, London WC2A 2HD \\
+__LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2A 2HD \\
 __The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London, WC2A 2AP
 
 <h3>Tuesday April 17 | Pre-Event</h3>
@@ -27,13 +27,13 @@ __The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London, WC2A 2AP
 			</tr>
 			<tr>
 				<td>7.00pm</td>
-				<td>Introduction to GitHub</td>
+				<td>Team Forming & Reception</td>
 				<td>LSE Life</td>
 			</tr>
-			<tr>
+				<tr>
 				<td>8.00pm</td>
-				<td>Reception</td>
-				<td>LSE Life</td>
+				<td>End of Pre-Event</td>
+				<td></td>
 			</tr>
 		 </tbody>
 		<tfoot>
@@ -143,6 +143,11 @@ __The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London, WC2A 2AP
 				<td>The Venue</td>
 			</tr>
 			<tr>
+				<td>1.30pm</td>
+				<td>Workshop V</td>
+				<td>LSE Life</td>
+			</tr>
+			<tr>
 				<td>3.30pm</td>
 				<td>Coffee break</td>
 				<td>The Venue</td>
@@ -158,9 +163,14 @@ __The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London, WC2A 2AP
 				<td>The Venue</td>
 			</tr>
 			<tr>
-				<td>8.00pm</td>
-				<td>Pub</td>
-				<td>TBA</td>
+				<td>7.30pm</td>
+				<td>Networking & Reception</td>
+				<td>The Venue</td>
+			</tr>
+			<tr>
+				<td>9.00pm</td>
+				<td>End of Day Two</td>
+				<td></td>
 			</tr>
 		</tbody>
 		<tfoot>

@@ -6,4 +6,4 @@ draft = false
 
 {{< figure class="image main" src="/images/css.jpg" >}}
 
-We aim to have five distinct computational social science challenges for the participants to tackle throughout the weekend. Challenges are tied to sponsorships. They will be publicised two weeks before the event.
+We aim to have four to five distinct computational social science challenges for the participants to tackle throughout the event. Challenges are tied to sponsorships. These will be publicised a week before the event.

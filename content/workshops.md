@@ -4,7 +4,7 @@ weight = 30
 draft = false
 +++
 
-We will host events throughout the hackathon. These will run in parallel with the main event; the participants can take a break from hacking and attend a workshop. Events are tied to sponsorships. Currently, we are expecting to host four technical workshops and one speaker panel.
+We will host events throughout the hackathon. These will run in parallel with the main event; the participants can take a break from hacking and attend a workshop. Events are tied to sponsorships. Currently, we are expecting to host five technical workshops and one speaker panel.
 
 ### Introduction to Version Control
 ##### TBA, GitHub
