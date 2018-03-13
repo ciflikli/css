@@ -4,7 +4,7 @@ weight = 60
 draft = false
 +++
 
-The event is free for CSS society members; you can become one clicking [here.](https://www.lsesu.com/activities/societies/society/CSS/) We will update this section once the free tickets are available via the LSE Student Union through this [link.](https://www.lsesu.com/events/13345/6679/)
+The event is free for CSS society members; you can become one by clicking [here.](https://www.lsesu.com/activities/societies/society/CSS/) We will update this section once the free tickets are available via the LSE Student Union through this [link.](https://www.lsesu.com/events/13345/6679/)
 
 <form method="post" action="https://formspree.io/css@lsesu.org">
 	<div class="field half first">
