@@ -39,4 +39,7 @@ Dr. Pablo Barberá is an Assistant Professor of Computational Social Science in 
 ---
 
 ### Intersectional Data Science Panel
-##### Full Speaker List TBA
+##### Mariama Boumanjal, Google
+##### Chanuki Seresinhe, Alan Turing Institute
+##### TBA
+##### TBA
