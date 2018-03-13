@@ -8,7 +8,7 @@ Are you interested in the intersection of social science and data science? Do yo
 
 The two-and-a-half day event will boast four computational social science challenges set by Facebook Research, GitHub, and LSE SEDS (one more TBA soon) that will be solved by groups of approximately 10 students each. On top of that you can expect exciting workshops by experts from Google, GitHub, LSE SEDS, and R-Ladies London branch. Moreover, there will be a career panel featuring several LSE alumni now working in tech, providing you with an invaluable opportunity to explore and learn from their career trajectories and kick-start your own tech career.
 
-Stay tuned for the unveiling of our challenges over the upcoming weeks!
+Stay tuned for the unveiling of our challenges in the upcoming weeks!
 
 # FAQ
 
