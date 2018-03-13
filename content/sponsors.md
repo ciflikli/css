@@ -22,6 +22,9 @@ Reach us at [css@lsesu.org](mailto:css@lsesu.org?subject=Sponsorship) for more i
 <a href="https://github.com/">
 <img src="images/github.jpg" width="300"></a>
 
+<a href="https://cambridgespark.com/">
+<img src="images/spark.jpg" width="300"></a>
+
 <a href="https://www.r-consortium.org/">
 <img src="images/consortium.jpg" width="300"></a>
 
