@@ -7,7 +7,7 @@ draft = false
 ## Locations
 
 __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2A 2HD \\
-__The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London, WC2A 2AP
+__The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London WC2A 2AP
 
 <h3>Tuesday April 17 | Pre-Event</h3>
 <div class="table-wrapper">
