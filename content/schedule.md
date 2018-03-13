@@ -92,14 +92,9 @@ __The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London, WC2A 2AP
 				<td>LSE Life</td>
 			</tr>
 			<tr>
-				<td>7pm</td>
+				<td>8.30pm</td>
 				<td>Dinner</td>
-				<td>The Venue</td>
-			</tr>
-			<tr>
-				<td>9pm</td>
-				<td>End of Day One</td>
-				<td></td>
+				<td>TBA</td>
 			</tr>
 		</tbody>
 		<tfoot>

@@ -1,8 +1,10 @@
 +++
-title = "Contact"
+title = "Register"
 weight = 60
 draft = false
 +++
+
+The event is free for CSS society members; you can become one clicking [here.](https://www.lsesu.com/activities/societies/society/CSS/) We will update this section once the free tickets are available via the LSE Student Union through this [link.](https://www.lsesu.com/events/13345/6679/)
 
 <form method="post" action="https://formspree.io/css@lsesu.org">
 	<div class="field half first">
@@ -10,15 +12,15 @@ draft = false
 		<input type="text" name="name" id="name" />
 	</div>
 	<div class="field half">
-		<label for="email">Email</label>
+		<label for="email">LSE Email</label>
 		<input type="text" name="email" id="email" />
 	</div>
 	<div class="field">
-		<label for="message">Message</label>
+		<label for="message">Tell us why you want to join</label>
 		<textarea name="message" id="message" rows="4"></textarea>
 	</div>
 	<ul class="actions">
-		<li><input type="submit" value="Send Message" class="special" /></li>
+		<li><input type="submit" value="Register Interest" class="special" /></li>
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </form>

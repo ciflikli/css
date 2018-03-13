@@ -119,10 +119,10 @@ a {
   -ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   text-decoration: none;
-  color: inherit; }
+  color: #d12222; }
   a:hover {
     border-bottom-color: transparent;
-    color: #d12222; }
+    color: #ce5252; }
 
 strong, b {
   color: #ffffff;
@@ -966,11 +966,12 @@ button {
         text-transform: uppercase;
         letter-spacing: 0.2rem;
         font-size: 0.8rem;
-        border-bottom: 0; }
+        border-bottom: 0;
+        background-color: rgba(255, 255, 255, 0.8);}
         #header nav ul li a:hover {
-          background-color: rgba(255, 255, 255, 0.8); }
+          background-color: rgba(19, 18, 18, 0.8);}
         #header nav ul li a:active {
-          background-color: rgba(255, 255, 255, 0.175); }
+          background-color: rgba(36, 35, 37, 0.8); }
   #header nav.use-middle:after {
     content: '';
     display: block;

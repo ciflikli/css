@@ -1,5 +1,5 @@
 baseurl = "https://www.cssatlse.com"
-title = "LSESU CSS"
+title = "1st LSE CSS Hackathon"
 theme = "dimension"
 languageCode = "en-us"
 enableRobotsTXT = true

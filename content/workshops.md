@@ -1,5 +1,5 @@
 +++
-title = "Events"
+title = "Workshops"
 weight = 30
 draft = false
 +++
