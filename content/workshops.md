@@ -7,21 +7,22 @@ draft = false
 We will host events throughout the hackathon. These will run in parallel with the main event; the participants can take a break from hacking and attend a workshop. Events are tied to sponsorships. Currently, we are expecting to host five technical workshops and one speaker panel.
 
 ### Introduction to Version Control
-##### TBA, GitHub
+### TBA <img style="float: right;" src="images/mark.png" height="60">
 
 ---
 
 ### Machine Learning with Google Cloud
-##### Marc Cohen, Google
+### Marc Cohen<img style="float: right;" src="images/google.png" height="80">
 
 <img src="images/cohen.jpg" width="200">
+
 
 Marc Cohen builds tools, demos, codelabs, and other things to make the Google Cloud Platform easier and more fun to use. Originally from New Jersey, then Seattle, and now lives and works in London. He co-authored a book about Google Compute Engine and wrote the product announcement demo. In a previous life, he developed communication systems at Bell Labs and Lucent Technologies. Outside of work, he enjoys indie music, quirky films (especially documentaries), books, puzzles, and chess. He's also very interested in education, teaching, and applying technology (like spaced repetition) to enhance the learning experience.
 
 ---
 
-### Make and host your own blog using R
-##### Claudia Vitolo, R-Ladies
+### Make and host your own blog using R <img style="float: right;" src="images/r-ladies.png" height="80">
+### Claudia Vitolo
 
 <img src="images/vitolo.jpg" width="200">
 
@@ -30,7 +31,7 @@ Dr. Claudia Vitolo is an Italian scientist working at the European Centre for Me
 ---
 
 ### Quantitative Text Analysis with quanteda
-##### Pablo Barberá, LSE
+### Pablo Barberá, LSE <img style="float: right;" src="images/quanteda.png" height="60">
 
 <img src="images/barbera.jpg" width="200">
 
@@ -39,8 +40,8 @@ Dr. Pablo Barberá is an Assistant Professor of Computational Social Science in 
 ---
 
 ### Intersectional Data Science Panel
-##### Mariama Boumanjal, Google
-##### Chanuki Seresinhe, Alan Turing Institute
-##### Anna Louise Schröder, XLCatlin
-##### TBA
-##### TBA
+### Mariama Boumanjal, Google
+### Chanuki Seresinhe, Alan Turing Institute
+### Anna Louise Schröder, XLCatlin
+### TBA
+### TBA
