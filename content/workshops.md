@@ -39,6 +39,15 @@ Dr. Pablo Barberá is an Assistant Professor of Computational Social Science in 
 
 ---
 
+### Applied Predictive Modeling with `caret`
+### Gokhan Ciflikli, LSE <img style="float: right;" src="images/r.png" height="60">
+
+<img src="images/ciflikli.jpg" width="200">
+
+Gokhan Ciflikli is a PhD candidate in the International Relations Department at the London School of Economics. He is a computational social scientist and an R evangelist. His primary research interests are conflict forecasting and developing techniques for cross-validating and evaluating predictive accuracy of binary-time-series-cross-section data. He regularly contributes #rstats blog posts to [R-Bloggers](https://www.r-bloggers.com/) and [R-Weekly](https://rweekly.org/).
+
+---
+
 ### Intersectional Data Science Panel
 ### Mariama Boumanjal, Google
 ### Chanuki Seresinhe, Alan Turing Institute
