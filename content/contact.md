@@ -9,11 +9,11 @@ The event is free for CSS society members; you can become one by clicking [here.
 <form method="post" action="https://formspree.io/css@lsesu.org">
 	<div class="field half first">
 		<label for="name">Name</label>
-		<input type="text" name="name" id="name" />
+		<input type="text" name="name" id="name" required/>
 	</div>
 	<div class="field half">
 		<label for="email">LSE Email</label>
-		<input type="text" name="email" id="email" />
+		<input type="text" name="email" id="email" required/>
 	</div>
 	<div class="field">
 		<label for="message">Tell us why you want to join</label>
