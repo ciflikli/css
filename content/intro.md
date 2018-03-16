@@ -6,7 +6,7 @@ draft = false
 
 Are you interested in the intersection of social science and data science? Do you want to use your coding and data analysis skills to tackle social science problems? Are you looking for career opportunities in technology? If the answer to any of those questions is yes, you should participate in the 1st LSE Computational Social Science Hackathon!
 
-The two-and-a-half day event will boast four computational social science challenges set by Facebook Research, GitHub, and LSE SEDS (one more TBA soon) that will be solved by groups of approximately 10-15 students each. On top of that you can expect exciting workshops by experts from Google, GitHub, LSE SEDS, and R-Ladies London branch. Moreover, there will be a career panel featuring several LSE alumni now working in tech, providing you with an invaluable opportunity to explore and learn from their career trajectories and kick-start your own tech career.
+The two-and-a-half day event will boast four computational social science challenges set by Facebook Research, GitHub, and LSE SEDS (one more TBA soon) that will be solved by groups of approximately 10-15 students each. On top of that you can expect exciting workshops by experts from Google, GitHub, LSE, and R-Ladies London branch. Moreover, there will be a careers panel featuring several LSE alumni now working in tech, providing you with an invaluable opportunity to explore and learn from their career trajectories and kick-start your own tech career.
 
 Stay tuned for the unveiling of our challenges in the upcoming weeks!
 
@@ -38,7 +38,7 @@ All the food. Snacks during coffee breaks, 2 x lunch, and a dinner on Wednesday 
 
 ### What type of dinner?
 
-_Pizza_ (yep). On that note, let us know about any dietary restrictions when you sign up.
+Pizza, courtesy of Cambridge Spark! On that note, let us know about any dietary restrictions when you sign up.
 
 ### Will there be freebies?
 

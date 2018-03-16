@@ -33,6 +33,6 @@ Reach us at [css@lsesu.org](mailto:css@lsesu.org?subject=Sponsorship) for more i
 In addition to the above, we will have delegates from the following organisations:
 
 * Facebook Research
-* Google Cloud
+* Google
 * The Alan Turing Institute
 * R-Ladies London Branch
