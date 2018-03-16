@@ -17,7 +17,7 @@ The event is free for CSS society members; you can become one by clicking [here.
 	</div>
 	<div class="field">
 		<label for="message">Tell us why you want to join</label>
-		<textarea name="message" id="message" rows="4"></textarea>
+		<textarea name="message" id="message" rows="4" required></textarea>
 	</div>
 	<ul class="actions">
 		<li><input type="submit" value="Register Interest" class="special" /></li>
