@@ -18,7 +18,7 @@ Yes; however you need to be a member of the LSESU Computational Social Science s
 
 ### I want to attend but I'm not sure my coding chops are good enough for [insert random criteria]
 
-Do come; it's for learning and fun! There will be beginner-level workshops and guidance will be available throughout the event by LSE faculty and post-docs.
+Do come; it's for learning and fun! There will be beginner-level workshops for R and Python, and guidance will be available throughout the event by LSE faculty and post-docs.
 
 ### What's the Pre-Event (April 17)?
 
