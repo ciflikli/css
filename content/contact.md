@@ -16,11 +16,11 @@ The event is free for CSS society members; you can become one by clicking [here.
 		<input type="text" name="email" id="email" required/>
 	</div>
 		<div class="field half first">
-		<label for="name">Coding Experience</label>
+		<label for="code">Coding Experience</label>
 		<input type="text" name="code" id="code" required/>
 	</div>
 	<div class="field half">
-		<label for="email">Dietary Requirements</label>
+		<label for="diet">Dietary Requirements</label>
 		<input type="text" name="diet" id="diet"/>
 	</div>
 	<div class="field">
