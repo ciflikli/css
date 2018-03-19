@@ -21,12 +21,12 @@ Marc Cohen builds tools, demos, codelabs, and other things to make the Google Cl
 
 ---
 
-### Make and host your own blog using R <img style="float: right;" src="images/r-ladies.png" height="80">
-### Claudia Vitolo
+### Dive into `dplyr` <img style="float: right;" src="images/r-ladies.png" height="80">
+### Grace Meyer
 
-<img src="images/vitolo.jpg" width="200">
+<img src="images/meyer.jpg" width="200">
 
-Dr. Claudia Vitolo is an Italian scientist working at the European Centre for Medium-range Weather Forecasts (ECMWF), on forecasting natural hazards. Her work consists of developing tools and algorithms to facilitate the retrieval, modelling and visualisation of environmental forecasting data. These tools are used by first responders to act quickly and efficiently in case a natural hazard occurs. She is an open-advocate and addicted to the R statistical language. She organise meetups in the data science field as well as hackathons and Kaggle competitions. She is a member of the R-Ladies Global leadership team, a world-wide organization to promote gender diversity in the R community.
+Grace Meyer is a commercial analytics expert with proven success in advising business strategy based on data driven insights. She is currently based in London and works for the economics consultancy Oxera where she applies machine learning to strategic projects and is developing the data science and programming team. She is a mentor in the R-Ladies London chapter, uses R on a daily basis to crunch data and problem solve and presented at both UseR! and EARL last year.
 
 ---
 

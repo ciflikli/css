@@ -6,8 +6,13 @@ draft = false
 
 ## Locations
 
-__LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2A 2HD \\
+### Main Event
 __The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London WC2A 2AP
+
+
+### Workshops
+__LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2A 2HD
+
 
 <h3>Tuesday April 17 | Pre-Event</h3>
 <div class="table-wrapper">
@@ -68,7 +73,7 @@ __The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London WC2A 2AP
 			</tr>
 			<tr>
 				<td>11.00am</td>
-				<td>Workshop I</td>
+				<td>Introduction to GitHub</td>
 				<td>LSE Life</td>
 			</tr>
 			<tr>
@@ -78,7 +83,7 @@ __The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London WC2A 2AP
 			</tr>
 			<tr>
 				<td>2.30pm</td>
-				<td>Workshop II</td>
+				<td>Dive into `dplyr`</td>
 				<td>LSE Life</td>
 			</tr>
 			<tr>
@@ -88,7 +93,7 @@ __The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London WC2A 2AP
 			</tr>
 			<tr>
 				<td>4pm</td>
-				<td>Workshop III</td>
+				<td>Quantitative Text Analysis with `quanteda`</td>
 				<td>LSE Life</td>
 			</tr>
 			<tr>
@@ -129,7 +134,7 @@ __The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London WC2A 2AP
 			</tr>
 			<tr>
 				<td>11am</td>
-				<td>Workshop IV</td>
+				<td>Machine Learning with `Google Cloud`</td>
 				<td>LSE Life</td>
 			</tr>
 			<tr>
@@ -139,7 +144,7 @@ __The Venue:__ Saw Swee Hock Student Centre, 1 Portugal St, London WC2A 2AP
 			</tr>
 			<tr>
 				<td>1.30pm</td>
-				<td>Workshop V</td>
+				<td>Applied Predictive Modeling with `caret`</td>
 				<td>LSE Life</td>
 			</tr>
 			<tr>
