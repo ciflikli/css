@@ -4,7 +4,9 @@ weight = 60
 draft = false
 +++
 
-The event is free for CSS society members; you can become one by clicking [here.](https://www.lsesu.com/activities/societies/society/CSS/) We will update this section once the free tickets are available via the LSE Student Union through this [link.](https://www.lsesu.com/events/13345/6679/)
+You can reserve your free ticket [here.](https://www.lsesu.com/events/13345/6679/) Please note that you have to be a member of the LSESU Computational Social Science society to buy a ticket; if you are not a member yet, you can become one for £2 by clicking [here.](https://www.lsesu.com/activities/societies/society/CSS/)
+
+## Contact Us
 
 <form method="post" action="https://formspree.io/css@lsesu.org">
 	<div class="field half first">
@@ -12,23 +14,15 @@ The event is free for CSS society members; you can become one by clicking [here.
 		<input type="text" name="name" id="name" required/>
 	</div>
 	<div class="field half">
-		<label for="email">LSE Email</label>
+		<label for="email">Email</label>
 		<input type="text" name="email" id="email" required/>
 	</div>
-		<div class="field half first">
-		<label for="code">Coding Experience</label>
-		<input type="text" name="code" id="code" required/>
-	</div>
-	<div class="field half">
-		<label for="diet">Dietary Requirements</label>
-		<input type="text" name="diet" id="diet"/>
-	</div>
 	<div class="field">
-		<label for="message">Tell us why you want to attend</label>
+		<label for="message">Your Message</label>
 		<textarea name="message" id="message" rows="4" required></textarea>
 	</div>
 	<ul class="actions">
-		<li><input type="submit" value="Register Interest" class="special" /></li>
+		<li><input type="submit" value="Send" class="special" /></li>
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </form>
