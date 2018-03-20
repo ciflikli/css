@@ -4,9 +4,11 @@ weight = 60
 draft = false
 +++
 
-You can reserve your free ticket [here.](https://www.lsesu.com/events/13345/6679/) Please note that you have to be a member of the LSESU Computational Social Science society to buy a ticket; if you are not a member yet, you can become one for £2 by clicking [here.](https://www.lsesu.com/activities/societies/society/CSS/)
+If you are an LSE student, you can reserve your free ticket [here.](https://www.lsesu.com/events/13345/6679/) Please note that you have to be a member of the LSESU Computational Social Science society to buy a ticket; if you are not a member yet, you can become one for £2 by clicking [here.](https://www.lsesu.com/activities/societies/society/CSS/)
 
-## Contact Us
+## Non LSE Registration
+
+Please sign up using the form below and your name will be added to the guest list. Bring £2 worth of change with you so it's fair for everyone ;)
 
 <form method="post" action="https://formspree.io/css@lsesu.org">
 	<div class="field half first">
@@ -18,11 +20,11 @@ You can reserve your free ticket [here.](https://www.lsesu.com/events/13345/6679
 		<input type="text" name="email" id="email" required/>
 	</div>
 	<div class="field">
-		<label for="message">Your Message</label>
+		<label for="message">Tell Us About Yourself</label>
 		<textarea name="message" id="message" rows="4" required></textarea>
 	</div>
 	<ul class="actions">
-		<li><input type="submit" value="Send" class="special" /></li>
+		<li><input type="submit" value="Register" class="special" /></li>
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </form>
