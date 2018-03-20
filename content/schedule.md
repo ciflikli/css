@@ -97,9 +97,9 @@ __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2
 				<td>LSE Life</td>
 			</tr>
 			<tr>
-				<td>8.30pm</td>
+				<td>7.30pm</td>
 				<td>Dinner</td>
-				<td>TBA</td>
+				<td>The Venue</td>
 			</tr>
 		</tbody>
 		<tfoot>
