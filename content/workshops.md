@@ -16,6 +16,7 @@ We will host events throughout the hackathon. These will run in parallel with th
 
 <img src="images/cohen.jpg" width="200">
 
+[Personal Website](https://www.mcohen.io/)
 
 Marc Cohen builds tools, demos, codelabs, and other things to make the Google Cloud Platform easier and more fun to use. Originally from New Jersey, then Seattle, and now lives and works in London. He co-authored a book about Google Compute Engine and wrote the product announcement demo. In a previous life, he developed communication systems at Bell Labs and Lucent Technologies. Outside of work, he enjoys indie music, quirky films (especially documentaries), books, puzzles, and chess. He's also very interested in education, teaching, and applying technology (like spaced repetition) to enhance the learning experience.
 
@@ -26,6 +27,8 @@ Marc Cohen builds tools, demos, codelabs, and other things to make the Google Cl
 
 <img src="images/meyer.jpg" width="200">
 
+[LinkedIn Profile](https://www.linkedin.com/in/grace-meyer-b039803b/)
+
 Grace Meyer is a commercial analytics expert with proven success in advising business strategy based on data driven insights. She is currently based in London and works for the economics consultancy Oxera where she applies machine learning to strategic projects and is developing the data science and programming team. She is a mentor in the R-Ladies London chapter, uses R on a daily basis to crunch data and problem solve and presented at both UseR! and EARL last year.
 
 ---
@@ -35,6 +38,8 @@ Grace Meyer is a commercial analytics expert with proven success in advising bus
 
 <img src="images/barbera.jpg" width="200">
 
+[Personal Website](http://pablobarbera.com/)
+
 Dr. Pablo Barberá is an Assistant Professor of Computational Social Science in the Methodology Department at the London School of Economics, which he joined in 2018 after holding a position of Assistant Professor in International Relations at the University of Southern California. He received his PhD in Political Science from New York University in 2015, where he was also a graduate research associate in the Social Media and Political Participation lab and a Moore-Sloan Post-Doctoral Fellow at the NYU Center for Data Science. His primary areas of research include social media and politics, computational social science, and comparative electoral behavior and political representation.
 
 ---
@@ -43,6 +48,8 @@ Dr. Pablo Barberá is an Assistant Professor of Computational Social Science in 
 ### Gokhan Ciflikli, LSE <img style="float: right;" src="images/r.png" height="60">
 
 <img src="images/ciflikli.jpg" width="200">
+
+[Personal Website](https://www.gokhanciflikli.com)
 
 Gokhan Ciflikli is a PhD candidate in the International Relations Department at the London School of Economics. He is a computational social scientist and an R evangelist. His primary research interests are conflict forecasting and developing techniques for cross-validating and evaluating predictive accuracy of binary-time-series-cross-section data. He regularly contributes #rstats blog posts to [R-Bloggers](https://www.r-bloggers.com/) and [R-Weekly](https://rweekly.org/).
 
