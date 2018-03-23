@@ -22,7 +22,7 @@ Do come; it's for learning and fun! There will be beginner-level workshops for R
 
 ### What's the Pre-Event (April 17)?
 
-It's when all participants gather for the first time and listen to the challenge presentations. Afterwards, you will be able to mingle (drinks on us) and form teams. This ensures that you can all start hacking right away on the morning of the first day!
+It's when all participants gather for the first time and watch the challenge presentations (sponsors themselves won't be there during the pre-event). Afterwards, you will be able to mingle (drinks on us) and form teams. This ensures that you can all start hacking right away on the morning of the first day!
 
 ### Is there a cap on attendance?
 
