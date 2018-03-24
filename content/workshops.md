@@ -36,11 +36,11 @@ Grace Meyer is a commercial analytics expert with proven success in advising bus
 ---
 
 ### Quantitative Text Analysis with quanteda
-### <a href="http://pablobarbera.com/">Pablo Barberá</a>, LSE <img style="float: right;" src="images/quanteda.png" height="60">
+### <a href="https://koheiw.net/">Kohei Watanabe</a>, LSE <img style="float: right;" src="images/quanteda.png" height="60">
 
-<img src="images/barbera.jpg" width="200">
+<img src="images/watanabe.jpg" width="200">
 
-Dr. Pablo Barberá is an Assistant Professor of Computational Social Science in the Methodology Department at the London School of Economics, which he joined in 2018 after holding a position of Assistant Professor in International Relations at the University of Southern California. He received his PhD in Political Science from New York University in 2015, where he was also a graduate research associate in the Social Media and Political Participation lab and a Moore-Sloan Post-Doctoral Fellow at the NYU Center for Data Science. His primary areas of research include social media and politics, computational social science, and comparative electoral behavior and political representation.
+Kohei Watanabe is a post-doc researcher at the Department of Methodology and the Department of International Relations of the London School of Economics and Political Science. He is also an affiliated researcher at Waseda University, a member of a project on popular mobilization in Russia at the LSE’s International Relations Department, and a main contributor to the `quanteda` package in R. He has a PhD in Social Research Methodology (LSE) and an MA in Political Science (Central European University). He also spent three months in 2012 at the University of Auckland and the six months in 2012-2013 at the University of Leeds for his PhD study before coming to the LSE.
 
 ---
 
