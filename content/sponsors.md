@@ -19,7 +19,7 @@ Reach us at [css@lsesu.org](mailto:css@lsesu.org?subject=Sponsorship) for more i
 
 ### External
 
-<a href="https://github.com/">
+<a href="https://github.com/about/">
 <img src="images/github.jpg" width="300"></a>
 
 <a href="https://cambridgespark.com/">
@@ -36,3 +36,5 @@ In addition to the above, we will have delegates from the following organisation
 * Google
 * The Alan Turing Institute
 * R-Ladies London Branch
+* Oxara Consulting
+* XL Catlin
