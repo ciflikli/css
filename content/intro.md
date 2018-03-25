@@ -30,7 +30,7 @@ It's when all participants gather for the first time and watch the challenge pre
 
 ### Is there a cap on attendance?
 
-Yes, maximum 50 participants to ensure we can maintain a high standard for our offerings.
+Yes, maximum 50 participants.
 
 ### Will there be constant stream of coffee?
 
@@ -46,7 +46,7 @@ Pizza, courtesy of Cambridge Spark! We will also offer healthy alternatives.
 
 ### Will there be freebies for everyone?
 
-In the form of tote bags and t-shirts featuring our awesome event logo.
+In the form of tote bags and t-shirts commemorating the occasion.
 
 ### What about prize packs for the first-place team?
 
