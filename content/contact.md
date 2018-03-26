@@ -4,7 +4,7 @@ weight = 60
 draft = false
 +++
 
-Reserve your place at the event by getting a free ticket on Eventbrite [here](https://www.eventbrite.co.uk/e/1st-lse-computational-social-science-hackathon-tickets-44515241285).
+Reserve your place at the event by getting a free ticket on Eventbrite [here](https://www.eventbrite.co.uk/e/1st-lse-computational-social-science-hackathon-tickets-44515241285). Spaces are limited!
 
 # Contact Us
 
