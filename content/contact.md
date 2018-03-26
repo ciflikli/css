@@ -4,7 +4,32 @@ weight = 60
 draft = false
 +++
 
-Reserve your place at the event by getting a free ticket on Eventbrite [here](https://www.eventbrite.co.uk/e/1st-lse-computational-social-science-hackathon-tickets-44515241285). Spaces are limited!
+Reserve your place now by getting a free ticket (opens up a new Eventbrite window). Spaces are limited!
+
+<!-- Noscript content for added SEO -->
+<noscript><a href="https://cssatlse.eventbrite.co.uk" rel="noopener noreferrer" target="_blank"></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-44515241285" type="button">Buy Tickets</button>
+<noscript></a>Buy Tickets on Eventbrite</noscript>
+
+<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '44515241285',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-44515241285',
+        onOrderComplete: exampleCallback
+    });
+</script>
+\
+
+---
 
 # Contact Us
 
