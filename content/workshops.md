@@ -53,9 +53,20 @@ Gokhan Ciflikli is a PhD candidate in the International Relations Department at 
 
 ---
 
-### Intersectional Data Science Panel
+### Tech Careers Panel
 ### Mariama Boumanjal, Google
+
+<img src="images/boumanjal.jpg" width="200">
+
+Mariama has worked in Google for more than three years and started as a Associate Account Strategist in the Emergent Market Sales teams. She is currently holding the position of a certified Mobile App Technical Specialist working with the top EMEA app advertisers on growing their app business through new user acquisitions and user re-engagement. She provides technical consultancy services in regards to clients’ conversion tracking setup, ads formats and new product  adoption. Prior to Google, Mariama has started her career in the financial industry as an investment banker. 
+
+Mariama has a Masters Degree in Political Philosophy from the London School of Economics, a double B.Sc Degree in Management and Arabic from the School of Oriental and African Studies, London and received a scholarship from the National German Academic Foundation for her academic and charitable achievements. 
+
+Mariama is originally from Morocco but lived in Germany most of her life before she moved to the UK. She has lived in Egypt, Italy, Spain, Ireland and Morocco. She loves traveling, reading philosophical books and having passionate debates about global human challenges. 
+
 ### Chanuki Seresinhe, Alan Turing Institute
-### Anna Louise Schröder, XLCatlin
-### TBA
-### TBA
+<img src="images/seresinhe.jpg" width="200">
+
+Chanuki Illushka Seresinhe is a doctoral researcher at the Data Science Lab, Warwick Business School, University of Warwick and the Alan Turing Institute. Chanuki's research entails using big online datasets and deep learning to understand how beautiful environments affect human wellbeing. Her research has been featured in the press worldwide including the Economist, Wired, The Times, BBC, Spiegel Online, Guardian, Telegraph and Scientific American. Before returning to university, Chanuki had a diverse career that included running her own digital design consultancy for over eight years in London.
+
+### Anna Louise Schröder, XL Catlin
