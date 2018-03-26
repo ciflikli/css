@@ -50,7 +50,7 @@ In the form of tote bags and t-shirts commemorating the occasion.
 
 ### What about prize packs for the first-place team?
 
-Yeah, those too - thanks GitHub (:
+We would like to keep it nice and friendly, but those might receive little [octocat figurines](https://github.myshopify.com/products/octocat-figurine)---thanks GitHub (:
 
 ### Will there be opportunities for networking?
 
