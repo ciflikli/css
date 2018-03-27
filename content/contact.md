@@ -51,6 +51,8 @@ Reserve your place now by securing a free ticket below. Spaces are limited!
 	</ul>
 </form>
 
+---
+
 ## Locations
 
 __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2A 2HD \\
