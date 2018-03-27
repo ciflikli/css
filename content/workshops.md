@@ -54,7 +54,7 @@ Gokhan Ciflikli is a PhD candidate in the International Relations Department at 
 ---
 
 ### Tech Careers Panel
-### Mariama Boumanjal, Google
+### <a href="https://www.linkedin.com/in/mariama-boumanjal-a8150b76/">Mariama Boumanjal</a>, Google
 
 <img src="images/boumanjal.jpg" width="200">
 
@@ -64,9 +64,9 @@ Mariama has a Masters Degree in Political Philosophy from the London School of E
 
 Mariama is originally from Morocco but lived in Germany most of her life before she moved to the UK. She has lived in Egypt, Italy, Spain, Ireland and Morocco. She loves traveling, reading philosophical books and having passionate debates about global human challenges. 
 
-### Chanuki Seresinhe, Alan Turing Institute
+### <a href="https://www.linkedin.com/in/chanukiseresinhe/">Chanuki Seresinhe</a>, Alan Turing Institute
 <img src="images/seresinhe.jpg" width="200">
 
 Chanuki Illushka Seresinhe is a doctoral researcher at the Data Science Lab, Warwick Business School, University of Warwick and the Alan Turing Institute. Chanuki's research entails using big online datasets and deep learning to understand how beautiful environments affect human wellbeing. Her research has been featured in the press worldwide including the Economist, Wired, The Times, BBC, Spiegel Online, Guardian, Telegraph and Scientific American. Before returning to university, Chanuki had a diverse career that included running her own digital design consultancy for over eight years in London.
 
-### Anna Louise Schröder, XL Catlin
+### <a href="https://www.linkedin.com/in/alschroeder/">Anna Louise Schröder</a>, XL Catlin
