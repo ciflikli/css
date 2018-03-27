@@ -4,7 +4,7 @@ weight = 60
 draft = false
 +++
 
-Reserve your place now by getting a free ticket (opens up a new Eventbrite window). Spaces are limited!
+Reserve your place now by securing a free ticket below. Spaces are limited!
 
 <div id="eventbrite-widget-container-44515241285"></div>
 
