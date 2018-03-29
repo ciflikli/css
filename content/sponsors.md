@@ -35,5 +35,5 @@ In addition to the above, we will have delegates from the following organisation
 * Google
 * The Alan Turing Institute
 * R-Ladies London Branch
-* Oxara Consulting
+* Oxera Consulting
 * XL Catlin
