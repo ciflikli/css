@@ -49,6 +49,8 @@ Kohei Watanabe is a post-doc researcher at the Department of Methodology and the
 
 <img src="images/majo-vazquez.jpg" width="200">
 
+Sílvia Majó-Vázquez is a communication researcher and Post-doctoral Research Fellow at Reuters Institute for the Study of Journalism of the University of Oxford. Her research areas include news audience behaviour, digital news structure and the role of digital-born and legacy media in the online news domain. As part of her dissertation, she studied how digital technologies are reconfiguring the news media ecology, borrowing tools from network science and using digital trace data. Currently, she is focused on assessing patterns of online news consumption at a comparative level by leveraging Facebook and Twitter data from the French, UK and German elections in 2017. Jointly with other colleagues, she is advancing the audience research field by proposing new methodological approaches to the study of new audience navigation patterns based on developments from network science (see Mukerjee, Majó-Vázquez, & González-Bailón, 2018). Her work has been published in Journal of Computer Mediated Communication and Journal of Communication among others (see list of publications [here](https://scholar.google.es/citations?hl=en&user=kpSN-ugAAAAJ)).
+
 ---
 
 ### Applied Predictive Modeling with `caret`
