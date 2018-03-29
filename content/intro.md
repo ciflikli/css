@@ -32,7 +32,7 @@ It's when all participants gather for the first time and watch the challenge pre
 
 Yes, maximum 50 participants.
 
-### Will there be constant stream of tea/coffee etc.?
+### Will there be constant stream of tea/coffee etc?
 
 You got it.
 

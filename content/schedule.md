@@ -78,7 +78,7 @@ __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2
 			</tr>
 			<tr>
 				<td>11.30am</td>
-				<td>Machine Learning with `Google Cloud`</td>
+				<td>Machine Learning with `AutoML Vision`</td>
 				<td>LSE Life</td>
 			</tr>
 			<tr>
@@ -98,7 +98,7 @@ __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2
 			</tr>
 			<tr>
 				<td>4pm</td>
-				<td>Quantitative Text Analysis with `quanteda`</td>
+				<td>Building Text Analysis Models using `quanteda`</td>
 				<td>LSE Life</td>
 			</tr>
 			<tr>
