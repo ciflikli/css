@@ -31,7 +31,7 @@ __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2
 				<td>LSE Life</td>
 			</tr>
 			<tr>
-				<td>7.00pm</td>
+				<td>6.30pm</td>
 				<td>Team Forming & Reception</td>
 				<td>LSE Life</td>
 			</tr>
@@ -72,8 +72,13 @@ __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2
 				<td>The Venue</td>
 			</tr>
 			<tr>
-				<td>11.00am</td>
-				<td>Introduction to GitHub</td>
+				<td>10.30am</td>
+				<td>Introduction to `GitHub`</td>
+				<td>LSE Life</td>
+			</tr>
+			<tr>
+				<td>11.30am</td>
+				<td>Machine Learning with `Google Cloud`</td>
 				<td>LSE Life</td>
 			</tr>
 			<tr>
@@ -100,6 +105,11 @@ __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2
 				<td>7.30pm</td>
 				<td>Dinner</td>
 				<td>The Venue</td>
+			</tr>
+				<tr>
+				<td>9.00pm</td>
+				<td>End of Day One</td>
+				<td></td>
 			</tr>
 		</tbody>
 		<tfoot>
@@ -129,12 +139,12 @@ __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2
 			</tr>
 			<tr>
 				<td>10.00am</td>
-				<td>Hacking</td>
+				<td>Hacking recommences</td>
 				<td>The Venue</td>
 			</tr>
 			<tr>
 				<td>11am</td>
-				<td>Machine Learning with `Google Cloud`</td>
+				<td>Introduction to SNA and Network Visualisation in `R`</td>
 				<td>LSE Life</td>
 			</tr>
 			<tr>
@@ -169,7 +179,7 @@ __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2
 			</tr>
 			<tr>
 				<td>9.00pm</td>
-				<td>End of Day Two</td>
+				<td>End of Event</td>
 				<td></td>
 			</tr>
 		</tbody>

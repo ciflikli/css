@@ -32,7 +32,7 @@ It's when all participants gather for the first time and watch the challenge pre
 
 Yes, maximum 50 participants.
 
-### Will there be constant stream of coffee?
+### Will there be constant stream of tea/coffee etc.?
 
 You got it.
 
@@ -54,7 +54,7 @@ We would like to keep it nice and friendly, but those might receive little [octo
 
 ### Will there be opportunities for networking?
 
-Definitely! Senior data scientists from Google, Facebook Research, Cambridge Spark, XL Catlin will attend the event, in addition to campus experts from GitHub and LSE alumni working in tech. Make sure you say hello!
+Definitely! Senior data scientists from Google, Cambridge Spark, XL Catlin will attend the event, in addition to campus experts from GitHub and LSE alumni working in tech. Make sure you say hello!
 
 ### I have other questions than these!
 

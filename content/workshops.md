@@ -17,7 +17,7 @@ Wilhelm currently leads the team that builds UCL API, an API for student develop
 
 ---
 
-### Machine Learning with Google Cloud
+### Machine Learning with `AutoML Vision`
 ### <a href="https://www.mcohen.io/">Marc Cohen</a> <img style="float: right;" src="images/google.png" height="80">
 
 <img src="images/cohen.jpg" width="200">
@@ -35,12 +35,19 @@ Grace Meyer is a commercial analytics expert with proven success in advising bus
 
 ---
 
-### Quantitative Text Analysis with quanteda
+### Building Text Analysis Models using `quanteda`
 ### <a href="https://koheiw.net/">Kohei Watanabe</a>, LSE <img style="float: right;" src="images/quanteda.png" height="60">
 
 <img src="images/watanabe.jpg" width="200">
 
 Kohei Watanabe is a post-doc researcher at the Department of Methodology and the Department of International Relations of the London School of Economics and Political Science. He is also an affiliated researcher at Waseda University, a member of a project on popular mobilization in Russia at the LSE’s International Relations Department, and a main contributor to the `quanteda` package in R. He has a PhD in Social Research Methodology (LSE) and an MA in Political Science (Central European University). He also spent three months in 2012 at the University of Auckland and the six months in 2012-2013 at the University of Leeds for his PhD study before coming to the LSE.
+
+---
+
+### Introduction to SNA & Network visualisation in `R`
+### <a href="https://reutersinstitute.politics.ox.ac.uk/people/dr-silvia-majo-vazquez">Sílvia Majó-Vázquez</a>, University of Oxford
+
+<img src="images/majo-vazquez.jpg" width="200">
 
 ---
 
@@ -70,3 +77,4 @@ Mariama is originally from Morocco but lived in Germany most of her life before 
 Chanuki Illushka Seresinhe is a doctoral researcher at the Data Science Lab, Warwick Business School, University of Warwick and the Alan Turing Institute. Chanuki's research entails using big online datasets and deep learning to understand how beautiful environments affect human wellbeing. Her research has been featured in the press worldwide including the Economist, Wired, The Times, BBC, Spiegel Online, Guardian, Telegraph and Scientific American. Before returning to university, Chanuki had a diverse career that included running her own digital design consultancy for over eight years in London.
 
 ### <a href="https://www.linkedin.com/in/alschroeder/">Anna Louise Schröder</a>, XL Catlin
+### <img src="images/schroder.jpg" width="200">
