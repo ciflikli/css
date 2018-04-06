@@ -80,3 +80,7 @@ Chanuki Illushka Seresinhe is a doctoral researcher at the Data Science Lab, War
 
 ### <a href="https://www.linkedin.com/in/alschroeder/">Anna Louise Schröder</a>, XL Catlin
 ### <img src="images/schroder.jpg" width="200">
+
+Anna is senior data scientist at the commercial insurer XL Catlin where she develops innovative solutions to complex (large and small) data problems. In her current role, she leads a team of data scientists in building a situational risk model for autonomous driving. This work entails close collaboration with a start-up that builds the autonomous software, to understand their system and derive a probabilistic framework relating the system performance to data that describe situational context like weather and traffic. Other responsibilities involve assessing the (typically ‘AI’ or ‘ML’ labelled) products of external tech vendors, and sharing knowledge about statistical methods for structured and unstructured data in internal trainings and workshops.
+ 
+Anna has several years work experience ranging from banking to an e-commerce start up. She holds a PhD in Statistics from the London School of Economics, where she developed statistical methods for change-point detection with applications in finance and neuroscience. Anna has lived all around the world and loves exploring foreign cultures. In the overcrowded madness that is London, she tries to keep her sanity through cycling and rocket yoga.
