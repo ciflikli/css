@@ -102,6 +102,11 @@ __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2
 				<td>LSE Life</td>
 			</tr>
 			<tr>
+				<td>5pm</td>
+				<td>Applied Predictive Modeling with `caret`</td>
+				<td>LSE Life</td>
+			</tr>
+			<tr>
 				<td>7.30pm</td>
 				<td>Dinner</td>
 				<td>The Venue</td>
@@ -153,8 +158,8 @@ __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2
 				<td>The Venue</td>
 			</tr>
 			<tr>
-				<td>1.30pm</td>
-				<td>Applied Predictive Modeling with `caret`</td>
+				<td>2pm</td>
+				<td>How to Land a Job in Data Science</td>
 				<td>LSE Life</td>
 			</tr>
 			<tr>

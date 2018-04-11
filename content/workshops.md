@@ -44,6 +44,15 @@ Kohei Watanabe is a post-doc researcher at the Department of Methodology and the
 
 ---
 
+### Applied Predictive Modeling with `caret`
+### <a href="https://www.gokhanciflikli.com">Gokhan Ciflikli</a>, LSE <img style="float: right;" src="images/r.png" height="60">
+
+<img src="images/ciflikli.jpg" width="200">
+
+Gokhan Ciflikli is a PhD candidate in the International Relations Department at the London School of Economics. He is a computational social scientist and an R evangelist. His primary research interests are conflict forecasting and developing techniques for cross-validating and evaluating predictive accuracy of binary-time-series-cross-section data. He regularly contributes #rstats blog posts to [R-Bloggers](https://www.r-bloggers.com/) and [R-Weekly](https://rweekly.org/).
+
+---
+
 ### Introduction to SNA & Network visualisation in `R`
 ### <a href="https://reutersinstitute.politics.ox.ac.uk/people/dr-silvia-majo-vazquez">Sílvia Majó-Vázquez</a>, University of Oxford
 
@@ -53,12 +62,12 @@ Sílvia Majó-Vázquez is a communication researcher and Post-doctoral Research 
 
 ---
 
-### Applied Predictive Modeling with `caret`
-### <a href="https://www.gokhanciflikli.com">Gokhan Ciflikli</a>, LSE <img style="float: right;" src="images/r.png" height="60">
+### How to Land a Job in Data Science
+### <a href="https://www.linkedin.com/in/elaosterberger/">Ela Osterberger</a>, Deliveroo
 
-<img src="images/ciflikli.jpg" width="200">
+<img src="images/osterberger.png" width="200">
 
-Gokhan Ciflikli is a PhD candidate in the International Relations Department at the London School of Economics. He is a computational social scientist and an R evangelist. His primary research interests are conflict forecasting and developing techniques for cross-validating and evaluating predictive accuracy of binary-time-series-cross-section data. He regularly contributes #rstats blog posts to [R-Bloggers](https://www.r-bloggers.com/) and [R-Weekly](https://rweekly.org/).
+Ela Osterberger heads up a 20-strong Data Science Analytics team at Deliveroo. Before exploring data about pizza and finding the fastest route from A to B on a bike, she ran a data team at the Guardian. Outside of work, Ela enjoys baking (and eating) cakes, indoor gardening and train rides. She is passionate about developing Data Scientists and optimising happiness at work.
 
 ---
 
