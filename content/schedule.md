@@ -174,7 +174,7 @@ __LSE Life:__ Workspace 2, LSE Library, Ground Floor, 10 Portugal St, London WC2
 			</tr>
 			<tr>
 				<td>6.30pm</td>
-				<td>DS Careers Panel</td>
+				<td>Tech Careers Panel</td>
 				<td>The Venue</td>
 			</tr>
 			<tr>
