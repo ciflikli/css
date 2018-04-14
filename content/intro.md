@@ -6,7 +6,7 @@ draft = false
 
 Are you interested in the intersection of social science and data science? Do you want to use your coding and data analysis skills to tackle social science problems? Are you looking for career opportunities in technology? If the answer to any of those questions is yes, you should participate in the 1st LSE Computational Social Science Hackathon!
 
-The two-and-a-half day event will boast four computational social science challenges set by Facebook Research, GitHub, and LSE Social and Economic Data Science (one more TBA soon) that will be solved by groups of approximately 10-15 participants each. On top of that you can expect exciting R and Python workshops by experts from Google Cloud, GitHub, LSE, and R-Ladies London. Moreover, there will be an intersectional tech careers panel featuring practitioners from Google, Alan Turing Institute, and XL Catlin providing you with an invaluable opportunity to explore and learn from their career trajectories and kick-start your own tech career.
+The two-and-a-half day event will boast five computational social science challenges set by Facebook Research, GitHub, Zinc, LSE Social and Economic Data Science and LSESU Computational Social Science society that will be solved by groups of approximately 10-12 participants each. On top of that you can expect exciting R and Python workshops by experts from Google Cloud, GitHub, LSE, and R-Ladies London. Moreover, there will be an intersectional tech careers panel featuring practitioners from Google, Alan Turing Institute, and XL Catlin providing you with an invaluable opportunity to explore and learn from their career trajectories and kick-start your own tech career.
 
 Stay tuned for the unveiling of our challenges in the upcoming weeks!
 
@@ -32,9 +32,13 @@ It's when all participants gather for the first time and watch the challenge pre
 
 Yes, maximum 50 participants.
 
-### Will there be constant stream of tea/coffee etc?
+### Sleepovers?
 
-You got it.
+No, the event ends at 9pm on both days. You are in London! Go out and socialise, stay in and rest---your choice.
+
+### Will there be snacks/tea/coffee etc?
+
+You got it (9.30am and 3.30pm).
 
 ### Will there be food?
 
@@ -42,7 +46,7 @@ All the food. Snacks during coffee breaks, 2 x lunch, and a dinner on Wednesday 
 
 ### What type of dinner?
 
-Pizza, courtesy of Cambridge Spark! We will also offer healthy alternatives.
+Pizza, courtesy of Cambridge Spark!
 
 ### Will there be freebies for everyone?
 

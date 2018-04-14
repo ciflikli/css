@@ -37,3 +37,4 @@ In addition to the above, we will have delegates from the following organisation
 * R-Ladies London Branch
 * Oxera Consulting
 * XL Catlin
+* Zinc
