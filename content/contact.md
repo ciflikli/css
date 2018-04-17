@@ -1,36 +1,16 @@
 +++
-title = "Register"
+title = "Contact"
 weight = 60
 draft = false
 +++
 
-Reserve your place now by securing a free ticket below. Spaces are limited!
-
-<div id="eventbrite-widget-container-44515241285"></div>
-
-<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '44515241285',
-        iframeContainerId: 'eventbrite-widget-container-44515241285',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
-
----
-
 # Contact Us
+
+Slack channel:
+
+[css-hackathon.slack.com](css-hackathon.slack.com)
+
+Hashtag: #LSEhackathon
 
 <form method="post" action="https://formspree.io/css@lsesu.org">
 	<div class="field half first">
