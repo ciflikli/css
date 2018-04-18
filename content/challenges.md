@@ -68,6 +68,6 @@ Recommended workshop: Predictive Modeling with ```caret```
 
 - The individual or organization who is concerned with the fragile state and future of highly-used and impactful open source projects.
 
-Skills: Big data analytics, scaling
+Skills: Big data analytics, scaling  
 Point of reference: Amy Dickens & Wilhelm Klopp (GitHub)  
 Recommended workshop: Introduction to Version Control
