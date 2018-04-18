@@ -56,13 +56,13 @@ Skills: Relational databases, APIs, classification algorithms
 Point of reference: Dr Thomas Leeper (Facilitator, Government Department, LSE)  
 Recommended workshop: Predictive Modeling with ```caret```
 
-## Project Organisation on GitHub
+## Assessing the Open Source System
 
 - Help us understand risks to the open source ecosystem
 
-- Using Big Data and Open source
+- Using big data and open source
 
-- In open source, we have maintainers, montributors and consumers (or users)
+- In open source, we have maintainers, contributors and consumers (or users)
 
 - Recently a new role has appeared: sustainer
 
