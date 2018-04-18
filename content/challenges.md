@@ -58,10 +58,16 @@ Recommended workshop: Predictive Modeling with ```caret```
 
 ## Project Organisation on GitHub
 
-- Determinants of best organisation of project on GitHub
-- Focus on version control metrics: e.g. use of branching, frequency of commits, pull requests, issues
-- The foundations will be covered in the workshop tomorrow
+- Help us understand risks to the open source ecosystem
 
-Skills: Data manipulation, GitHub proficiency  
+- Using Big Data and Open source
+
+- In open source, we have maintainers, montributors and consumers (or users)
+
+- Recently a new role has appeared: sustainer
+
+- The individual or organization who is concerned with the fragile state and future of highly-used and impactful open source projects.
+
+Skills: Big data analytics, scaling
 Point of reference: Amy Dickens & Wilhelm Klopp (GitHub)  
 Recommended workshop: Introduction to Version Control
