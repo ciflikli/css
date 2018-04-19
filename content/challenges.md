@@ -59,13 +59,9 @@ Recommended workshop: Predictive Modeling with ```caret```
 ## Assessing the Open Source System
 
 - Help us understand risks to the open source ecosystem
-
 - Using big data and open source
-
 - In open source, we have maintainers, contributors and consumers (or users)
-
 - Recently a new role has appeared: sustainer
-
 - The individual or organization who is concerned with the fragile state and future of highly-used and impactful open source projects.
 
 Skills: Big data analytics, scaling  
