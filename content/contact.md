@@ -8,7 +8,7 @@ draft = false
 
 Slack channel:
 
-[css-hackathon.slack.com](https://css-hackathon.slack.com/)
+[css-hackathon.slack.com](https://join.slack.com/t/css-hackathon/shared_invite/enQtMzQ5MjgxMzA5MzM1LWU5OGVhZjgzNjI0YTZkZGQxY2EzMDQ0MDYwMDBlYTkyNDQ1NTM0MTQ4YzliZjM0NzE1MWMzMGU1N2ZhOTYzMTQ)
 
 Hashtag: #LSEhackathon
 
