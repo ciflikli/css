@@ -24,11 +24,8 @@ Recommended workshop: Building text analysis models using ```quanteda```
 ## Social Mobility: Left-Behind
 
 - People living in places (often termed the “rust belt” areas) that feel left behind by the economic changes of the last few decades (globalization, automation, etc.)
-
 - Old industrial areas within the US, UK and Europe (e.g. the Ruhr region of Germany, the North East of France)
-
 - To what extent are there shared characteristics across different "left-behind" places?
-
 - Focus on social and urban dimensions
 
 Skills: Web scraping, data visualisation, forecasting  
