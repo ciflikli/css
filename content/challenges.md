@@ -17,7 +17,7 @@ We aim to have five distinct computational social science challenges for the par
 Reports submitted by stakeholders (NGOs, academics and National Human Rights Institutions) can be found on the superscript number 3 for each state on the list:
 http://www.ohchr.org/EN/HRBodies/UPR/Pages/Documentation.aspx 
 
-Skills: Web scrapping, text similarity, cluster reports  
+Skills: Web scraping, text similarity, cluster reports  
 Point of reference: Pilar Elizalde (Co-organiser, IR Department, LSE)  
 Recommended workshop: Building text analysis models using ```quanteda```
 
